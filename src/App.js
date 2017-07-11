@@ -1,5 +1,6 @@
 import React from 'react';
-import './App.css';
+import './styles/App.css';
+import './styles/table.css'
 import Header from './components/header.js';
 import Table from './components/table.js';
 import Panel from './components/panel.js';

@@ -1,11 +1,10 @@
 import React from 'react';
-import Users from '../data.json';
+import Users from '../data/data.json';
 
 const cols = [
   "order ID",
   "influencer",
   "customer",
-  "order value",
   "date/time"
 ];
 
@@ -18,7 +17,6 @@ const userList = Users.map((user) =>
     <td><a href="">#{user.ID}</a></td>
     <td>{user.influencer}</td>
     <td>{user.customer}</td>
-    <td>{user.orderValue}</td>
     <td>{user.date}</td>
   </tr>
 );

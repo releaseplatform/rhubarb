@@ -1,17 +1,8 @@
-@import url("https://fonts.googleapis.com/css?family=Overpass");
-@import url("https://fonts.googleapis.com/css?family=PT+Mono");
-body {
-  background: #E0E0E0;
-  margin: 0; }
-
-.container {
-  width: 95%;
-  max-width: 1240px;
-  margin: 0 auto; }
-
 .transactionView {
   width: 75%;
-  font-family: Overpass, sans-serif; }
+  font-family: Overpass, sans-serif;
+  box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 4px 4px 0; }
   .transactionView table {
     width: 100%;
     border: none;
@@ -33,7 +24,7 @@ body {
   background: #fff; }
 
 .dataRow:nth-child(even) {
-  background: #D8D8D8; }
+  background: #eee; }
 
 .dataRow td {
   padding: 20px 15px; }

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import '../App.css';
-import '../panel.css';
+import '../styles/App.css';
+import '../styles/panel.css';
 
 class Panel extends React.Component {
   render() {

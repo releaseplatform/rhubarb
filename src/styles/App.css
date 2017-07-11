@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Overpass");
+@import url("https://fonts.googleapis.com/css?family=PT+Mono");
+body {
+  background: #E0E0E0;
+  margin: 0; }
+
+.container {
+  width: 95%;
+  max-width: 1240px;
+  margin: 0 auto; }

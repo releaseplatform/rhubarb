@@ -3,42 +3,36 @@
     "ID": 1995,
     "influencer": "ty_kix@gmail.com",
     "customer": "jacob@releaseplatform.com",
-    "orderValue": "£15.99",
     "date": "12/04/17"
   },
   {
     "ID": 1066,
     "influencer": "summet@gmail.com",
     "customer": "bigbird@number70.com",
-    "orderValue": "£15.99",
     "date": "12/04/17"
   },
   {
     "ID": 1627,
     "influencer": "info@starbuck-co.com",
     "customer": "thelads@coldone.com",
-    "orderValue": "£15.99",
     "date": "12/04/17"
   },
   {
     "ID": 1804,
     "influencer": "info@starbuck-co.com",
     "customer": "nerds@lagosholidays.com",
-    "orderValue": "£15.99",
     "date": "12/04/17"
   },
   {
     "ID": 1402,
     "influencer": "info@starbuck-co.com",
     "customer": "jonathan@theclockpeople.com",
-    "orderValue": "£15.99",
     "date": "12/04/17"
   },
   {
     "ID": 2718,
     "influencer": "info@starbuck-co.com",
     "customer": "suemcdonald@yahoo.com",
-    "orderValue": "£15.99",
     "date": "12/04/17"
   }
 ]

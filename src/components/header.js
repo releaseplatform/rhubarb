@@ -1,7 +1,7 @@
 import React from 'react';
-import '../header.css';
-import '../grid.css';
-import Logo from '../logo.png';
+import '../styles/header.css';
+import '../styles/grid.css';
+import Logo from '../assets/logo.png';
 import Search from './search.js';
 
 class Header extends React.Component {
