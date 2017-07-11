@@ -1,0 +1,10 @@
+.grid-item {
+  display: inline-block;
+  &.right {
+    text-align: right;
+  }
+}
+
+.grid-half {
+  width: 50%;
+}

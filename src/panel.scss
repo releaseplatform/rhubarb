@@ -1,0 +1,22 @@
+.c-panel {
+  width: 20%;
+  margin-right: 5%;
+  vertical-align: top;
+  h1 {
+    margin: 0;
+    font-family: Overpass, sans-serif;
+    font-weight: 800;
+  }
+  h2 {
+    font-family: Overpass, monospace;
+    font-weight: normal;
+  }
+  p {
+    font-family: pt-mono, monospace;
+    line-height: 1.4;
+  }
+  br {
+    color: #111;
+    height: 2px;
+  }
+}

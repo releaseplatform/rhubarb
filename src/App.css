@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css?family=Overpass");
+@import url("https://fonts.googleapis.com/css?family=PT+Mono");
+body {
+  background: #E0E0E0;
+  margin: 0; }
+
+.container {
+  width: 95%;
+  max-width: 1240px;
+  margin: 0 auto; }
+
+.transactionView {
+  width: 75%;
+  font-family: Overpass, sans-serif; }
+  .transactionView table {
+    width: 100%;
+    border: none;
+    border-collapse: collapse;
+    border-spacing: 0;
+    text-align: left; }
+
+.tableHead {
+  background: #111;
+  color: white;
+  border-radius: 4px 4px 0 0; }
+  .tableHead th {
+    border-spacing: 0;
+    border: 0;
+    border-collapse: separate;
+    padding: 10px; }
+
+.dataRow:nth-child(odd) {
+  background: #fff; }
+
+.dataRow:nth-child(even) {
+  background: #D8D8D8; }
+
+.dataRow td {
+  padding: 20px 15px; }
+
+.dataRow a:link, .dataRow a:visited {
+  color: #399FE4;
+  text-decoration: none; }
